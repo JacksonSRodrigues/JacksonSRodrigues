@@ -33,11 +33,29 @@
 | Languages | TypeScript, JS, Objective-C, Python, Swift |
 | Framework | ReactNative, ReactJS, Jest, UIKit |
 | Runtimes | NodeJS, Cordova |
-| Data | MongoDB, SQLite |
+| Data | MongoDB, SQLite, Coredata |
 | Paradigms | OOP, MVC, FLUX, REST |
 |||
 
 
-## Projects
 
-### React Native ()
+
+## Open Contributions
+
+### Medium Blogs
+1. [Simulate Photo Capture in iOS simulator with One Step.](https://medium.com/@js.rodrigues/simulate-photo-capture-in-ios-simulator-with-one-step-12965c7a1688)
+2. [Machine Learning - Processing Huge volume of Data with Mongodb - Reducing Physical Memory Consumption - v2](https://medium.com/@js.rodrigues/machine-learning-processing-huge-volume-of-data-with-mongodb-reducing-physical-memory-993897bb3b5a)
+3. [Blurred lines between languages… en route to Code Generation](https://medium.com/@js.rodrigues/code-generation-blurred-lines-between-languages-16757b77cf89)
+4. [Docker simplified for you.. Cheat-sheet for Developers](https://medium.com/@js.rodrigues/docker-simplified-for-you-cheat-sheet-for-developers-ba487744f9ba)
+5. [CI/CD simplified for you, with Love from GitLab.](https://medium.com/@js.rodrigues/ci-cd-simplified-for-you-with-love-from-gitlab-fc87eefa2d28)
+### Open Source
+1. [gitlab-api](https://github.com/JacksonSRodrigues/gitlab-api)
+2. [r-file-uploader](https://github.com/JacksonSRodrigues/r-file-uploader)
+3. [AVCapturePhotoOutput+Simulator.swift](https://gist.github.com/JacksonSRodrigues/d08a8a59c3fbb9b04f4ad5db0dbf5990)
+
+### Youtube
+- Content/Audio/Video editor on [World Of Simple English](https://www.youtube.com/channel/UCiT-wyuqdZvtY9CPiCeRJNw)
+
+## Education
+
+
