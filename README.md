@@ -42,20 +42,6 @@
 
 <br>
 
-### Frontend Architect (2020 - Present)
-
-
-### Techincal Lead (2017 - 2020)
-
-
-### Module Lead (2014 - 2017)
-
-
-### Software Developer (2009 - 2014)
-
-<br>
-<br>
-
 ## Projects
 
 ### Field Inspection App (Utilities Domain)
