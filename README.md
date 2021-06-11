@@ -3,7 +3,7 @@
 
 |**Summary**| | 
 |---|:---|
-|**Full Stack Developer**|*profile*|
+|**Full Stack Developer**|*dev profile*|
 |**11+ years**|*experience*|
 |**TATA CONSULTANCY SERVICES**|*company*|
 |**Asst. Consultant**|*designation*|
@@ -25,6 +25,17 @@
 - Experience in backend development with Nodejs, Flask(Python).
 - Experience in frontend web development with ReactJS.
 - Experience in iPhone, iPad and Watch application.
+
+
+## Skills
+| | |
+|---|---|
+| Languages | TypeScript, JS, Objective-C, Python, Swift |
+| Framework | ReactNative, ReactJS, Jest, UIKit |
+| Runtimes | NodeJS, Cordova |
+| Data | MongoDB, SQLite |
+| Paradigms | OOP, MVC, FLUX, REST |
+|||
 
 
 ## Projects
