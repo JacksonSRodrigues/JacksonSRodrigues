@@ -139,7 +139,7 @@ Above applications are native applications on iOS(iPhone and iPad)
 <br/>
 
 ### Youtube
-- Content/Video editor on [World Of Simple English](https://www.youtube.com/channel/UCiT-wyuqdZvtY9CPiCeRJNw), a channel providing session to improve English of fellow people.
+- Content/Video editor on [World Of Simple English](https://www.youtube.com/channel/UCiT-wyuqdZvtY9CPiCeRJNw). A channel providing sessions to improve English.
 
 
 <br/>
