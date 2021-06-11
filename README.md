@@ -1,10 +1,10 @@
 # Jackson Sunny Rodrigues
 
 
-|**Summary**| | 
+|| | 
 |---|:---|
 |**Full Stack Developer**|*dev profile*|
-|**11+ years**|*experience*|
+|**11 years**|*experience*|
 |**TATA CONSULTANCY SERVICES**|*company*|
 |**Asst. Consultant**|*designation*|
 | **jackson.sunny.rodrigues@gmail.com**| *email* |
@@ -57,5 +57,9 @@
 - Content/Audio/Video editor on [World Of Simple English](https://www.youtube.com/channel/UCiT-wyuqdZvtY9CPiCeRJNw)
 
 ## Education
-
+| Institution | completed on|
+|---|---|
+| BTech Compture Science - [SNGCE](http://www.sngce.ac.in/) ([MG University](https://www.mgu.ac.in/)) | 2009|
+| +2 [St Josephs BHSS Calicut](http://www.sjbhss.ac.in/)| 2004|
+| 10th [St Josephs BHSS Calicut](http://www.sjbhss.ac.in/)| 2002|
 
