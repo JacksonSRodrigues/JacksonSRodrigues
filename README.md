@@ -1,9 +1,8 @@
 # Jackson Sunny Rodrigues
 
 
-|| | 
+|**Full Stack Developer**|*profile*|
 |---|:---|
-|**Full Stack Developer**|*dev profile*|
 |**11 years**|*experience*|
 |**TATA CONSULTANCY SERVICES**|*company*|
 |**Asst. Consultant**|*designation*|
@@ -14,7 +13,7 @@
 <br>
 
 ## About Me
-- Result oriented application developer with 11 years of experience, who enjoys development and reseach role.
+- Result oriented application developer with 11 years of experience, who enjoys development and research role.
 - 5+ years of experience in guiding teams in multiple projects.
 - Strong technical and Problem solving skills
 - A quick and self motivated learner, good team member with good communication and decision making skills.
@@ -35,8 +34,8 @@
 |---|---|
 | Languages | TypeScript, JS, Objective-C, Python, Swift |
 | Framework | ReactNative, ReactJS, Jest, UIKit |
-| Runtimes | NodeJS, Cordova |
-| Data | MongoDB, SQLite, Coredata |
+| Runtime | NodeJS, Cordova |
+| Data | MongoDB, SQLite, CoreData |
 | Paradigms | OOP, MVC, FLUX, REST |
 |||
 
@@ -45,26 +44,26 @@
 ## Projects
 
 ### Field Inspection App (Utilities Domain)
-A ReactNative iPad app for assisitng field Inspectors to perform Inspections on their assets, both in online and offline mode. 
+A ReactNative iPad app for assisting field Inspectors to perform Inspections on their assets, both in online and offline mode. 
 
-Responsibilities included, Lead UI Development, Enabling 100% sync of data genearated within Client devices with remote Server. Improving the stability and quality of application. 
+Responsibilities included, Lead UI Development, Enabling 100% sync of data generated within Client devices with remote Server. Improving the stability and quality of application. 
 
 > **Technologies:** *ReactNative, NodeJS, iOS, Typescript, SQLite, MongoDB*
 
 <br>
 
-### Content Recommendation & Classifiation (TCS.COM)
-This was introduced to provide adaptive content marketing capabilities to the website without generating individual user profiles or collecting personal informations. Classifications of visitors are done to pre-identified grouspa dn provided with targeted experience for each group. 
-Related content classification was done to identify and recommend releated storeies based on their Semantic Similarity. The aim is to replace manual and tag based related content recommendations as this could provide less accurate on large volume of contents.  
+### Content Recommendation & Classification (TCS.COM)
+This was introduced to provide adaptive content marketing capabilities to the website without generating individual user profiles or collecting personal information. Classifications of visitors are done to pre-identified groups and provided with targeted experience for each group. 
+Related content classification was done to identify and recommend related stories based on their Semantic Similarity. The aim is to replace manual and tag based related content recommendations as this could provide less accurate on large volume of contents.  
 
-Responsibilites included designing and developing a system to provide on the fly classification of visitors and provide targetted experience. Also 
+Responsibilities included designing and developing a system to provide on the fly classification of visitors and provide targeted experience. Also 
 
 > **Technologies:** *Python, Sklearn, Tensorflow, Flask, Swagger, Gensim, NLTK, SPACY*
 
 <br>
 
 ### Skill Market Place
-This was an inhouse blockchain based solution for management and validation of Skills of associate within an organization. Users could endorse skills and get it validated which later gets added to their profile.  
+This was an in-house blockchain based solution for management and validation of Skills of associate within an organization. Users could endorse skills and get it validated which later gets added to their profile.  
 
 Responsibilities included leading UI development for this product with ReactJS, enabling CI/CD and building a team for supporting future enhancements.
 
@@ -73,34 +72,34 @@ Responsibilities included leading UI development for this product with ReactJS, 
 <br>
 
 ### TCS.COM - UI Development
-TCS.COM is the website which acts as the digital face of TCS, featuring various products, services and vision of TCS. This webiste is backed up by AEM.  
+TCS.COM is the website which acts as the digital face of TCS, featuring various products, services and vision of TCS. This website is backed up by AEM.  
 
-Responsibilites included leading the team in developing modules and lead the quality(bugfixes) in the website.
+Responsibilities included leading the team in developing modules and lead the quality(bugfixes) in the website.
 > **Technologies:** *HTML5, ES6*
 
 <br>
 
 ### BaNCS ADK
-BaNCS ADK is an inhouse product with which a novice user can drag and drop components and create a working prototype of application with ReactJS within minutes.  
+BaNCS ADK is an in-house product with which a novice user can drag and drop components and create a working prototype of application with ReactJS within minutes.  
 
-Responsibilites included desinging and developing code genration module for REactJS and also development of Cordova Plugin for BuildHub which enables preview of development application on real device while developing with ADK.
+Responsibilities included designing and developing code generation module for ReactJS and also development of Cordova Plugin for BuildHub which enables preview of development application on real device while developing with ADK.
 > **Technologies:** *ReactJS, TypeScript, Cordova, iOS*
 
 <br>
 
 ### dreamUP (v1.0 - v2.5)
-This is an inhouse product which was capable of genrating dashboards and integrating with multiple data services. Dashboards were available in mulitple loatforms such as iOS, Android and Web. 
+This is an in-house product which was capable of generating dashboards and integrating with multiple data services. Dashboards were available in multiple platforms such as iOS, Android and Web. 
 
-Responsiblities includes leading iOS App Development, creating charting component framework. Integrate features such as APpIndexing, Multitasking, AppleWatch integrationa & Widgets.
+Responsibilities includes leading iOS App Development, creating charting component framework. Integrate features such as AppIndexing, Multitasking, AppleWatch integration & Widgets.
 > **Technologies:** *iOS, Watch, CoreGraphics, SQLite*
 
 <br>
 
 ### Tula, The Architect, Latest Interiors, News In Pictures
-Tula is a collobarative platfrom for Construction industry.
-The Architesct is an Audio book of a Novel.
-Latest Interiors app features latest tresnds in Interiors.
-News in Picture features latest trends in Architecture Industry.
+Tula is a collaborative platform for Construction industry.  
+The Architect is an Audio book of a Novel.  
+Latest Interiors app features latest trends in Interiors.  
+News in Picture features latest trends in Architecture Industry.  
 Above applications are native applications on iOS(iPhone and iPad)
 > **Technologies:** *iOS, CoreData, SQLite*
 
@@ -134,6 +133,6 @@ Above applications are native applications on iOS(iPhone and iPad)
 | Institution | completed on|
 |---|---|
 | BTech Compture Science - [SNGCE](http://www.sngce.ac.in/) ([MG University](https://www.mgu.ac.in/)) | 2009|
-| +2 [St Josephs BHSS Calicut](http://www.sjbhss.ac.in/)| 2004|
-| 10th [St Josephs BHSS Calicut](http://www.sjbhss.ac.in/)| 2002|
+| +2 [St Josephs B.H.S.S Calicut](http://www.sjbhss.ac.in/)| 2004|
+| 10th [St Josephs B.H.S.S Calicut](http://www.sjbhss.ac.in/)| 2002|
 
