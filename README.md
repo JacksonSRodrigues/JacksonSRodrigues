@@ -7,8 +7,8 @@
 |**11 years**|*experience*|
 |**TATA CONSULTANCY SERVICES**|*company*|
 |**Asst. Consultant**|*designation*|
-| **jackson.sunny.rodrigues@gmail.com**| *email* |
-| **+91-9497333082**|*phone*|
+|**jackson.sunny.rodrigues@gmail.com**| *email* |
+|**+91-94xxxxxx82**|*phone*|
 |||
 
 <br>
