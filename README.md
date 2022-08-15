@@ -2,7 +2,7 @@
 
 | **Full Stack Developer**              | _profile_     |
 | :------------------------------------ | :------------ |
-| **11 years**                          | _experience_  |
+| **12 years**                          | _experience_  |
 | **TATA CONSULTANCY SERVICES**         | _company_     |
 | **Asst. Consultant**                  | _designation_ |
 | **jackson.sunny.rodrigues@gmail.com** | _email_       |
@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Result oriented application developer with 11 years of experience, who enjoys development and research role.
+- Result oriented application developer with 12 years of experience, who enjoys development and research role.
 - 5+ years of experience in guiding teams in multiple projects.
 - Strong technical and Problem solving skills
 - A quick and self motivated learner, good team member with good communication and decision making skills.
@@ -18,24 +18,38 @@
 ## Experience Summary
 
 - Experience in developing/maintaining ReactNative application with offline first architecture.
+- Experience in frontend web development with ReactJS & NextJS.
 - Experience in developing ML Classifiers and recommendations for website visitors.
 - Experience in developing backend development with NodeJS, Flask(Python)
-- Experience in frontend web development with ReactJS.
 - Experience in iPhone, iPad and Watch application.
 
 | Skills                                         |             |
 | :--------------------------------------------- | ----------- |
 | **TypeScript, JS, Objective-C, Python, Swift** | _Languages_ |
-| **ReactNative, ReactJS, Jest, UIKit**          | _Framework_ |
+| **ReactNative, ReactJS, NextJS, Jest, UIKit**  | _Framework_ |
 | **NodeJS, Cordova**                            | _Runtime_   |
 | **MongoDB, SQLite, CoreData**                  | _Data_      |
-| **OOP, MVC, FLUX, REST**                       | _Paradigms_ |
+| **OOP, MVC, FLUX, REST, GraphQL**              | _Paradigms_ |
 
 <br>
 <br>
 <br>
 
 ## Projects
+
+### Parcels & Shop Management App (Retail Domain)
+Its a migration project for the modernization of equipments to support staff to manage parcels and items for shops across multiple retail stores across country.44
+
+Responsibilities: Architecting and developing reusable modules to simplify communication and improve reliance between Legacy system and Android applications.
+
+> **Technologies:** _ReactNative, Android, Javascript, TCP_
+
+### Product Recommentation Website.
+A website which recommend products customer looking for from multiple seller webistes, create digital wardrobes and showcase to digital platform.
+
+Responsibilities: Developing front end website, develop fedated GraphQL layer for the UI to consume, integerate scraping api for products.
+
+> **Technologies:** _NextJS, NodeJS, Typescript, GraphQL, Firebase_
 
 ### Field Inspection App (Utilities Domain)
 
