@@ -45,9 +45,9 @@ Responsibilities: Architecting and developing reusable modules to simplify commu
 > **Technologies:** _ReactNative, Android, Javascript, TCP_
 
 ### Product Recommentation Website.
-A website which recommend products customer looking for from multiple seller webistes, create digital wardrobes and showcase to digital platform.
+A website which acts as a social media platform that helps to search, create, share & showcase wardrobes in digital platform. Provides product details from multiple seller webistes to aid in buying it.
 
-Responsibilities: Developing front end website, develop fedated GraphQL layer for the UI to consume, integerate scraping api for products.
+Responsibilities: Developing front end website, develop schema for fedarated GraphQL layer for the UI to consume, integerate scraping api for products from muliple websites.
 
 > **Technologies:** _NextJS, NodeJS, Typescript, GraphQL, Firebase_
 
