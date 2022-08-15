@@ -38,9 +38,10 @@
 ## Projects
 
 ### Parcels & Shop Management App (Retail Domain)
-Its a migration project for the modernization of equipments to support staff to manage parcels and items for shops across multiple retail stores across country.44
+Its a migration project for the modernization of equipments to support staff to manage parcels and items for shops across multiple retail stores across country.
 
 Responsibilities: Architecting and developing reusable modules to simplify communication and improve reliance between Legacy system and Android applications.
+
 
 > **Technologies:** _ReactNative, Android, Javascript, TCP_
 
@@ -84,10 +85,6 @@ Responsibilities included leading the team in developing modules and lead the qu
 
 > **Technologies:** _HTML5, ES6_
 
-<br>
-<br>
-<br>
-<br>
 
 ### BaNCS ADK
 
